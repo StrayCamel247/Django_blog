@@ -14,7 +14,7 @@ construct==2.5.3
 cryptography==3.3.2
 debtcollector==2.2.0
 defusedxml==0.6.0
-Django==3.1.6
+Django==3.1.8
 django-allauth==0.43.0
 django-appconf==1.0.4
 django-celery==3.3.1
